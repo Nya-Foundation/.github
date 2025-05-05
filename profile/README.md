@@ -1,21 +1,17 @@
 <h1 align="center">
     <p></p>
     <img
-        src="https://raw.githubusercontent.com/nya-foudnation/.github/master/assets/banner.png"
+        src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/banner.png"
         alt="Nya Foundation"
-        width="50%"
+        width="60%"
     />
     <p></p>
 </h1>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/nya-foudnation/.github/master/assets/nya-proxy.png" alt="NyaProxy" width="30%" />
-    <img src="https://raw.githubusercontent.com/nya-foudnation/.github/master/assets/neko-canvas.png" alt="NekoCanvas" width="30%" />
+    <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/nya-proxy.png" alt="NyaProxy" width="10%" />
+    <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/neko-canvas.png" alt="NekoCanvas" width="10%" />
 </p>
-
-## Our Mission
-
-Making AI and LLM technology accessible for everyone.
 
 ## Get Involved
 
