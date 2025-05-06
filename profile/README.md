@@ -9,8 +9,9 @@
 </h1>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/nya-proxy.png" alt="NyaProxy" width="10%" />
-    <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/neko-canvas.png" alt="NekoCanvas" width="10%" />
+    <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/nya-proxy.png" alt="NyaProxy" width="14%" />
+    <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/nekoconf.png" alt="NekoConf" width="14%" />
+    <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/neko-canvas.png" alt="NekoCanvas" width="14%" />
 </p>
 
 ## Get Involved
