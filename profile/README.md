@@ -1,15 +1,13 @@
-<h1 align="center">
+<div align="center">
     <p></p>
     <img
         src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/banner.png"
         alt="Nya Foundation"
         width="80%"
     />
-    <p></p>
-
     <h3>Making AI and LLM technology accessble for everyone.</h3>
-    
-</h1>
+    <p></p>
+</div>
 
 <p align="center">
 <a href="https://github.com/Nya-Foundation/NyaProxy">
