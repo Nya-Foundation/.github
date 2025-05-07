@@ -3,15 +3,22 @@
     <img
         src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/banner.png"
         alt="Nya Foundation"
-        width="60%"
+        width="80%"
     />
     <p></p>
+    <h3>Making AI and LLM technology accessble for everyone.</h3>
 </h1>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/nya-proxy.png" alt="NyaProxy" width="14%" />
-    <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/nekoconf.png" alt="NekoConf" width="14%" />
-    <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/neko-canvas.png" alt="NekoCanvas" width="14%" />
+<a href="https://github.com/Nya-Foundation/NyaProxy">
+    <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/nya-proxy.png" alt="NyaProxy" width="15%" />
+</a>
+<a href="https://github.com/Nya-Foundation/NekoConf">
+    <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/nekoconf.png" alt="NekoConf" width="15%" />
+</a> 
+<a href="https://github.com/Nya-Foundation/neko-canvas">
+    <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/neko-canvas.png" alt="NekoCanvas" width="15%" />
+</a> 
 </p>
 
 ## Get Involved
