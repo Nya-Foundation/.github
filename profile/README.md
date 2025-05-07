@@ -6,7 +6,9 @@
         width="80%"
     />
     <p></p>
+
     <h3>Making AI and LLM technology accessble for everyone.</h3>
+    
 </h1>
 
 <p align="center">
