@@ -13,6 +13,9 @@
 <a href="https://github.com/Nya-Foundation/NyaProxy">
     <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/nya-proxy.png" alt="NyaProxy" width="15%" />
 </a>
+<a href="https://github.com/Nya-Foundation/NekoAI-API">
+    <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/nekoai-api.png" alt="NekoAI-API" width="15%" />
+</a>
 <a href="https://github.com/Nya-Foundation/NekoConf">
     <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/nekoconf.png" alt="NekoConf" width="15%" />
 </a> 
