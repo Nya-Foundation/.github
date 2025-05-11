@@ -5,7 +5,7 @@
         alt="Nya Foundation"
         width="80%"
     />
-    <h3>Making AI and LLM technology accessble for everyone.</h3>
+    <h3>Making AI and LLM technology accessible for everyone.</h3>
     <p></p>
 </div>
 
@@ -16,11 +16,14 @@
 <a href="https://github.com/Nya-Foundation/NekoAI-API">
     <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/nekoai-api.png" alt="NekoAI-API" width="15%" />
 </a>
+<a href="https://github.com/Nya-Foundation/NekoAI-JS">
+    <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/nekoai-js.png" alt="NekoAI-JS" width="15%" />
+</a>
 <a href="https://github.com/Nya-Foundation/NekoConf">
     <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/nekoconf.png" alt="NekoConf" width="15%" />
 </a> 
-<a href="https://github.com/Nya-Foundation/neko-canvas">
-    <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/neko-canvas.png" alt="NekoCanvas" width="15%" />
+<a href="https://github.com/Nya-Foundation/NekoCanvas">
+    <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/NekoCanvas.png" alt="NekoCanvas" width="15%" />
 </a> 
 </p>
 
