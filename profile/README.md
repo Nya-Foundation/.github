@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/nekoconf.png" alt="NekoConf" width="15%" />
 </a> 
 <a href="https://github.com/Nya-Foundation/NekoCanvas">
-    <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/NekoCanvas.png" alt="NekoCanvas" width="15%" />
+    <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/semantic-release" alt="NekoCanvas" width="15%" />
 </a> 
 </p>
 
