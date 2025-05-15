@@ -1,13 +1,12 @@
-<div align="center">
+<h1 align="center">
     <p></p>
     <img
         src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/banner.png"
         alt="Nya Foundation"
         width="80%"
     />
-    <h3>Making AI and LLM technology accessible for everyone.</h3>
     <p></p>
-</div>
+</h1>
 
 <p align="center">
 <a href="https://github.com/Nya-Foundation/NyaProxy">
@@ -23,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/nekoconf.png" alt="NekoConf" width="15%" />
 </a> 
 <a href="https://github.com/Nya-Foundation/NekoCanvas">
-    <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/semantic-release" alt="NekoCanvas" width="15%" />
+    <img src="https://raw.githubusercontent.com/Nya-Foundation/.github/main/assets/neko-canvas.png" alt="NekoCanvas" width="15%" />
 </a> 
 </p>
 
